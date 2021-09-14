@@ -5,5 +5,5 @@
 
 It was created while learning from [FreeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)'s [video](https://www.youtube.com/watch?v=jaVNP3nIAv0) by creator [Whatsdev](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg).
 
-### Project
+### Project 
 [Project](https://utkarsh736.github.io/rock-paper-scissors/)
